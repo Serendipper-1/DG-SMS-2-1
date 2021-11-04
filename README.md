@@ -1,3 +1,8 @@
+#  致谢
+作者：NolanHzy  
+  
+原链接：https://github.com/NolanHzy/nvjdc  
+
 # nvjdc
 Net core5  vue3 puppeteer sharp的一次尝试
 
